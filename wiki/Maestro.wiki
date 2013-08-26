@@ -1,0 +1,7 @@
+#summary Maestro
+
+= Maestro =
+LOTRO Maestro is a MIDI to ABC converter. Arrange multipart ABC files from MIDI source files.
+
+= Details =
+http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/maestro_v1.0.0.png
