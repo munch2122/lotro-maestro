@@ -1,7 +1,8 @@
 #summary Maestro
 
 = Maestro =
-LOTRO Maestro is a MIDI to ABC converter. Arrange multipart ABC files from MIDI source files.
+Maestro is a MIDI to ABC converter for The Lord of the Rings Online. Use it to arrange multi-part ABC files to play in the game with your friends.
 
-= Details =
+_More information is forthcoming_
+
 http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/maestro_v1.0.0.png
