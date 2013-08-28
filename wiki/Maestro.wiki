@@ -1,4 +1,5 @@
 #summary Maestro
+#sidebar TableOfContents
 
 = Maestro =
 Maestro is a MIDI to ABC converter for The Lord of the Rings Online. Use it to arrange multi-part ABC files to play in the game with your friends.
