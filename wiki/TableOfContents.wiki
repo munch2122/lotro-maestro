@@ -6,3 +6,5 @@
    * [AbcPlayer ABC Player]
  * [Changelog Release Notes]
  * [Contact Contact Me]
+
+<font size="1">[http://code.google.com/p/lotro-maestro/w/list Wiki Page List]</font>
