@@ -1,10 +1,9 @@
 #summary Table of Contents
 
  * [Home]
- * *Documentation*
-   * [Maestro]
-   * [AbcPlayer ABC Player]
- * [Changelog Release Notes]
- * [Contact Contact Me]
+ * [Maestro Maestro guide]
+ * [AbcPlayer ABC Player guide]
+ * [Changelog Release notes]
+ * [Contact Contact me]
 
 <font size="1">[http://code.google.com/p/lotro-maestro/w/list Wiki Page List]</font>

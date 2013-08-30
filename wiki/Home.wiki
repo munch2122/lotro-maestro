@@ -1,9 +1,7 @@
-#summary Home page for Maestro and ABC Player
-
 = Maestro and ABC Player =
 <table>
 <tr>
-<td>http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/maestro_32.png</td>
+<td width="48px">http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_48.png</td>
 <td>
 *[Maestro]* is a MIDI to ABC converter for The Lord of the Rings Online. Use it to arrange multi-part ABC files to play in the game with your friends.
 </td>
@@ -12,7 +10,7 @@
 
 <table>
 <tr>
-<td>http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/abcplayer_32.png</td>
+<td width="48px">http://lotro-maestro.googlecode.com/svn/wiki/images/abcplayer_48.png</td>
 <td>
 *[AbcPlayer ABC Player]* lets you listen to ABC files as they would sound when played in The Lord of the Rings Online.
 </td>
@@ -32,6 +30,6 @@ Maestro and ABC Player require [http://java.com/ Java 7] or later. You must have
 _All of the files needed to run Maestro and ABC Player in a .zip, if you prefer not to use the installer, or want to try running Maestro on another operating system (like 64-bit Java, MacOS, or Linux). Maestro has not been tested to run on operating systems other than Windows, your mileage may vary._
 
 = Screenshots =
-http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/maestro_v1.0.0.png
+http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_v1.0.0.png
 
-http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/AbcPlayer_1.3.0.png
+http://lotro-maestro.googlecode.com/svn/wiki/images/AbcPlayer_1.3.0.png
