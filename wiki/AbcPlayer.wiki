@@ -1,5 +1,29 @@
 #summary ABC Player
 
-= Introduction =
+<table cellpadding="0" width="100%">
+<tr>
+<td>
+= ABC Player =
+</td>
+<td width="48px">http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/abcplayer_48.png</td>
+<td width="10px"></td>
+</tr>
+</table>
 
-Content forthcoming
+Use ABC Player to listen to .abc files as they would sound in The Lord of the Rings Online's player music system. ABC Player is especially useful for previewing songs with multiple parts, to see how the parts sound with each other without having to get your band together in game.
+
+== Using ABC Player ==
+Double-click on an .abc file in Windows Explorer to play it. You can also drag and drop an .abc file onto the player, or use File > Open.
+
+If you have a multi-part song separated into multiple files, drag and drop all of the files in the song onto the player to open them as a single song.
+
+You can paste ABC songs that you've copied out of a forum post or website (for example). Use Ctrl+V to paste a new song, or Ctrl+Shift+V to add the contents of the clipboard as a new part of the current song. The latter is useful when pasting a multi-part song from The Fat Lute.
+
+You can export the song to a .wav (uncompressed audio) file using File > Save as Wave file. You can then use a program like [http://lame.sourceforge.net/ LAME] to convert the .wav file to .mp3.
+
+== Preview ==
+http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/images/AbcPlayer_1.3.0.png
+
+Listen to a preview of the song pictured above: [http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/mp3/herecomesthesun.mp3 herecomesthesun.mp3]
+
+If you want to try the song yourself, download [http://lotro-maestro.googlecode.com/svn/LotroMaestro/trunk/website/files/sun.abc sun.abc] and either open it in ABC Player, or get 9 friends together and play it in LOTRO.
