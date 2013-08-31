@@ -1,35 +1,32 @@
 = Maestro and ABC Player =
-<table>
+<table cellpadding="4px">
 <tr>
-<td width="48px">http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_48.png</td>
-<td>
-*[Maestro]* is a MIDI to ABC converter for The Lord of the Rings Online. Use it to arrange multi-part ABC files to play in the game with your friends.
+<td width="48px">[http://code.google.com/p/lotro-maestro/wiki/Maestro http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_48.png]</td>
+<td width="320px">
+*[Maestro]* is a MIDI to ABC converter for The Lord of the Rings Online. Use it to arrange multi-part ABC files to play in the game with your friends. [Maestro Learn more]
+</td>
+<td width="48px">[http://code.google.com/p/lotro-maestro/wiki/AbcPlayer http://lotro-maestro.googlecode.com/svn/wiki/images/abcplayer_48.png]</td>
+<td width="320px">
+*[AbcPlayer ABC Player]* lets you listen to ABC files as they would sound when played in The Lord of the Rings Online. [AbcPlayer Learn more]
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="48px">http://lotro-maestro.googlecode.com/svn/wiki/images/abcplayer_48.png</td>
-<td>
-*[AbcPlayer ABC Player]* lets you listen to ABC files as they would sound when played in The Lord of the Rings Online.
-</td>
-</tr>
-</table>
+= Installer =
+[http://lotro.acasylum.com/abcplayer/installer/Maestro_v1.0.0.msi http://lotro-maestro.googlecode.com/svn/wiki/images/download.png]
 
-==Download==
+The installer will configure your computer to open .abc files with ABC Player and edit them with Maestro.
 
-<font size="5">*[http://lotro.acasylum.com/abcplayer/installer/Maestro_v1.0.0.msi Download Maestro v1.0.0]*</font> includes ABC Player v1.3.1
+Maestro and ABC Player require [http://java.com/ Java 7] or later. You must have the 32-bit version of Java installed, even if you're running 64-bit Windows.
 
-Maestro and ABC Player require [http://java.com/ Java 7] or later. You must have the 32-bit version of Java installed, even if you're running 64-bit Windows. I recommend that you [http://www.java.com/en/download/help/disable_browser.xml disable the Java browser plugin] after installing Java for increased security.
+I recommend that you [http://www.java.com/en/download/help/disable_browser.xml disable the Java browser plugin] after installing Java for increased security.
 
 ==Advanced Download==
-
-*[http://lotro.acasylum.com/abcplayer/installer/Maestro_v1.0.0.zip Maestro_v1.0.0.zip]* includes ABC Player v1.3.1
+*[http://lotro.acasylum.com/abcplayer/installer/Maestro_v1.0.0.zip Maestro_v1.0.0.zip]* includes ABC Player
 
 _All of the files needed to run Maestro and ABC Player in a .zip, if you prefer not to use the installer, or want to try running Maestro on another operating system (like 64-bit Java, MacOS, or Linux). Maestro has not been tested to run on operating systems other than Windows, your mileage may vary._
 
 = Screenshots =
-http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_v1.0.0.png
+<img src="https://lotro-maestro.googlecode.com/svn/wiki/images/maestro_v1.0.0.png"/>
 
 http://lotro-maestro.googlecode.com/svn/wiki/images/AbcPlayer_1.3.0.png
