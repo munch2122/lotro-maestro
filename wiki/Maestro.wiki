@@ -14,6 +14,7 @@ Maestro is a MIDI to ABC converter for The Lord of the Rings Online. Use it to a
 == Tips and hints ==
   * To play a track solo (mute other tracks), hold down the right mouse button on the track. This also works for individual drum notes when editing drums.
   * If the rhythm sounds wrong in the ABC Preview, try the *Triplets/swing rhythm* checkbox.
+  * You can right click on an .abc or .mid file and choose "Edit with Maestro" to open Maestro directly.
 
 = Walkthrough =
 http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_v1.0.0.png
