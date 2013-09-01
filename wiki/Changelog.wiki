@@ -21,7 +21,7 @@ _July 20, 2013_
 
 === New Features ===
   * Added support for the Pibgorn instrument. There are several notes that play at the wrong pitch to match the broken behavior of the Pibgorn in the game.
-  * Added a Solo button [S] to let you easily listen to a single part solo without having to mute the rest of the tracks.
+  * Added a Solo button `[S]` to let you easily listen to a single part solo without having to mute the rest of the tracks.
   * The instrument dropdown is now sorted by name.
 
 == Bug Fixes ==
