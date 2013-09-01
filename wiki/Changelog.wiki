@@ -1,7 +1,7 @@
 #summary Release Notes
 
 == Maestro 1.0.0 ==
-_August 31, 2031_
+_August 31, 2013_
 
   * Initial Release
 

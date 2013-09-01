@@ -1,6 +1,6 @@
-<table cellpadding="0" width="100%"><tr><td valign="bottom">
+<table cellpadding="0" width="800"><tr><td valign="bottom">
 <font size="7">ABC Player</font>
-</td><td width="48px">http://lotro-maestro.googlecode.com/svn/wiki/images/abcplayer_48.png</td><td width="10px"></td></tr></table>
+</td><td width="48px">http://lotro-maestro.googlecode.com/svn/wiki/images/abcplayer_48.png</td></tr></table>
 
 Use ABC Player to listen to .abc files as they would sound in The Lord of the Rings Online's player music system. ABC Player is especially useful for previewing songs with multiple parts, to see how the parts sound with each other without having to get your band together in game.
 
