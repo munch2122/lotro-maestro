@@ -3,12 +3,12 @@
 Maestro was created by Digero of the Landroval server.
 
 Here are the various ways you can contact me, in order of preference:
-  * Post in the [MaestroThread Maestro] thread on the Lord of the Rings Online forums.
+  * Post in the [http://www.lotro.com/forums/showthread.php?522150 Maestro thread] on the Lord of the Rings Online forums.
   * Send me a [http://forums.lotro.com/private.php?do=newpm&u=500355 private message] on the Lord of the Rings Online forums.
-  * Send me an <a class="contact" href="http://mailhide.recaptcha.net/d?k=01n-5P9sGluraN10SL_KCQ0g==&amp;c=PVc2mSgG-jmAgK1fVPIictZxOrtsPIIhKu4aRf4FU2g=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01n-5P9sGluraN10SL_KCQ0g==&amp;c=PVc2mSgG-jmAgK1fVPIictZxOrtsPIIhKu4aRf4FU2g=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;">email</a>.
+  * Send me an [http://www.google.com/recaptcha/mailhide/d?k=01ObAp8sDY_B2PIi0yjO810Q==&c=bJjJeuXErccNhDcUvKBGbzgReS9W7foFZiTEmhD5OWc= email].
 
 = Other Projects =
 
 You may be interested in some of the other related projects I've worked on:
-  * [http://code.google.com/p/lotromidiplayer/ LOTRO MIDI Player] (now mostly superseded by Maestro)
+  * [http://code.google.com/p/lotromidiplayer/ LOTRO MIDI Player] (now superseded by Maestro)
   * [http://decal.acasylum.com/ Digero's Decal Plugins] for Asheron's Call
