@@ -2,11 +2,11 @@
 <table cellpadding="4px">
 <tr>
 <td width="48px">[http://code.google.com/p/lotro-maestro/wiki/Maestro http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_48.png]</td>
-<td width="330px">
+<td width="336px">
 *[Maestro]* is a MIDI to ABC converter for The Lord of the Rings Online. Use it to arrange multi-part ABC files to play in the game with your friends. [Maestro Learn more]
 </td>
 <td width="48px">[http://code.google.com/p/lotro-maestro/wiki/AbcPlayer http://lotro-maestro.googlecode.com/svn/wiki/images/abcplayer_48.png]</td>
-<td width="330px">
+<td width="336px">
 *[AbcPlayer ABC Player]* lets you listen to ABC files as they would sound when played in The Lord of the Rings Online. [AbcPlayer Learn more]
 </td>
 </tr>
