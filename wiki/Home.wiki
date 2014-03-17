@@ -16,7 +16,8 @@
 <table>
 <tr><td height="32"></td></tr>
 <tr><td>
-<a href="http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v1.4.1.msi"><img alt="Download Maestro and ABC Player Installer" title="Download Maestro and ABC Player Installer" src="http://lotro-maestro.googlecode.com/svn/wiki/images/download.png"></img></a>
+<a href="http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v1.4.1.msi"><img alt="Download Maestro and ABC Player Installer" title="Download Maestro and ABC Player Installer" src="http://lotro-maestro.googlecode.com/svn/wiki/images/download.png"></img><br/>
+*Maestro v1.4.1.msi*</a> - includes ABC Player | <i>March 16, 2014</i>
 </td></tr>
 <tr><td height="32"></td></tr>
 </table>
@@ -27,7 +28,7 @@ Maestro and ABC Player require Java 7 (32-bit) or later. I recommend that you [h
 
 
 ==Advanced Download==
-*[http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v1.4.1.zip Maestro_v1.4.1.zip]* includes ABC Player
+*[http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v1.4.1.zip Maestro_v1.4.1.zip]* - includes ABC Player | <i>March 16, 2014</i>
 
 _The zip file contains all of the files needed to run Maestro and ABC Player. Download this if you prefer not to use the installer, or want to try running Maestro on another operating system (like 64-bit Java, MacOS, or Linux). Maestro has not been tested to run on operating systems other than Windows, your mileage may vary._
 
