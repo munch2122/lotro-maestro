@@ -60,6 +60,7 @@ Starting from the top left of the screenshot:
 This is the list of tracks that were in the MIDI or ABC file that you opened.
   * *Track name* - Check the checkbox next to the track name to include it in the tracks played for the current part.
   * *Track transpose* - Transpose individual tracks up or down by full octaves to get the track into the playable range of the selected instrument.
+  * *Track volume* - Adjust the volume of this track in the output ABC file. While adjusting the volume, the note display shows the volume of each note in the track. Any notes adjusted quieter than +pppp+ or louder than +ffff+ are drawn in <font color="#FF4D00">*red*</font> to indicate that their volume was clipped.
   * *Notes* - This is a graphical display of the notes in the track.
     * <font color="#4081FF">*Blue*</font> notes can be played by the selected instrument.
     * <font color="#FF4D00">*Red*</font> notes are out of the playable range of the instrument and will be transposed up or down by one or more octaves to get it into the playable range.

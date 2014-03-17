@@ -1,5 +1,27 @@
 #summary Release Notes
 
+== Maestro 1.4.1 ==
+_March 16, 2014_
+
+==== Bug Fixes ====
+  * Fixed a bug with the volume bar showing incorrect values when switching between ABC parts.
+
+----
+
+== Maestro 1.4.0 ==
+_March 14, 2014_
+
+==== New Features ====
+  * You can now modify the output volume (+pp+, +mf+, etc.) of each track in the ABC file. When a track is selected, there is a volume bar beneath the octave transpose.
+  * While you're adjusting the volume, the display shows the volume of each note, instead of the pitch like it normally does.
+  * If you adjust the volume past the minimum or maximum volume, the note will be drawn in red and the volume will be clipped to +pppp+ or +ffff+.
+
+==== Bug Fixes ====
+  * Fixed a crash when opening certain midi files that have extreme pitch bends.
+  * ABC Player and Maestro now have the same version number.
+
+----
+
 == Maestro 1.0.0 ==
 _August 31, 2013_
 
@@ -10,7 +32,7 @@ _August 31, 2013_
 == ABC Player 1.3.1 ==
 _August 31, 2013_
 
-=== New Features ===
+==== New Features ====
   * Added an option to show the full name of each part in the track list, without trimming off the song name from the start.
   * The volume now goes to eleven! The maximum volume is a bit louder than it used to be.
 
@@ -24,7 +46,7 @@ _July 20, 2013_
   * Added a Solo button `[S]` to let you easily listen to a single part solo without having to mute the rest of the tracks.
   * The instrument dropdown is now sorted by name.
 
-== Bug Fixes ==
+==== Bug Fixes ====
   * The +pppp+ and +ffff+ dynamics specifiers should no longer cause errors.
 
 ----
