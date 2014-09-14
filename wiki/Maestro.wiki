@@ -113,7 +113,7 @@ The variables you can use are:
   * *`$SongTitle`* - The title of the song, as entered in the *T:* field.
   * *`$SongTranscriber`* - Your name, as entered in the *Z:* field.
 
-=== Export & Save ===
+=== Save & Export ===
   * *Prompt to save new Maestro Songs* - When selected, Maestro will prompt you to save the Maestro Song file when you try to close the application or open a different song. This only applies to new songs -- Maestro will always prompt you to save when closing an existing Maestro Song that's been modified.
   * *Always prompt for the ABC file name when exporting* - When selected, Maestro will always ask you for the name of the .abc file when you click Export ABC. If deselected, it'll only prompt you the first time you export the song. Even with this option disabled, you can still pick a new export file using File > Export ABC As... (Ctrl+Shift+E).
   

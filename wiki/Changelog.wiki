@@ -7,7 +7,7 @@ _September 14, 2014_
   * Maestro now works with songs that change tempo! I've overhauled the MIDI-to-ABC conversion logic, so the exported ABC songs play at their original tempo and don't stutter after the tempo changes.
     * When a song contains tempo changes, you'll see an extra row in the track list that shows you how the tempo changes over the course of the song.
     * Because LOTRO doesn't understand the ABC notation for tempo changes mid-song, all note lengths are multiplied by the ratio of the actual tempo and the main tempo. For example, if the tempo changes from 100 BPM to 111 BPM, all note lengths are multiplied by 111/100 for that part of the song.
-    * When the tempo changes in a song, the new tempo will be written in a comment, for example: %%Q: 111
+    * When the tempo changes in a song, the new tempo will be written in a comment, for example: `%%Q: 111`
     * The tempo-change comments are used by Maestro and ABC Player to understand the tempo changes within a song. This lets you open an ABC file with Maestro, and it will still understand the tempo changes.
 
   * You can now save Maestro Song files, so you don't have to start from scratch if you want to export a song again with some different options.
