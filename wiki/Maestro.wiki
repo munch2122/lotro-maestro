@@ -17,7 +17,7 @@ Maestro is a MIDI to ABC converter for The Lord of the Rings Online. Use it to a
   * You can right click on an .abc or .mid file and choose "Edit with Maestro" to open Maestro directly.
 
 = Walkthrough =
-http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_v1.0.0.png
+http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_v2.0.0.png
 
 Starting from the top left of the screenshot:
 
@@ -39,7 +39,7 @@ Starting from the top left of the screenshot:
 *Export Settings* - These settings affect all parts of the ABC song when it exported.
 
   * *Transpose* - Shift all parts up or down by semitones (12 semitones = 1 octave). Use this for minor adjustments to get the notes to fit within LOTRO's 3-octave range.
-  * *Tempo* - Speed up or slow down the ABC song.
+  * *Tempo* - Speed up or slow down the ABC song. If the song contains tempo changes, then this only displays the Main Tempo of the song; that is, the tempo that's used by the majority of the song. Changing this value will adjust the tempo for the entire song proportionally.
   * *Meter* - Adjust the key signature of the ABC file. This only affects the ABC text in the exported file, but doesn't affect what it sounds like when played in the game.
   * *Triplets/swing rhythm* - Tweak the timing to allow for triplets or a swing rhythm. This can cause short/fast notes to incorrectly be detected as triplets. Leave it unchecked unless the song has triplets or a swing rhythm.
 </td></tr></table>
@@ -78,7 +78,7 @@ This is the list of tracks that were in the MIDI or ABC file that you opened.
 </td></tr></table>
 
 == Drums ==
-http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_drums_v1.0.0.png
+http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_drums_v2.0.0.png
 
 When you choose Drums as the instrument, any track you select will be expanded to show each individual drum type. From there, you can choose which LOTRO drum note it should use.
 
@@ -91,6 +91,7 @@ You can configure advanced options from the the Tools menu > Options.
 
 http://lotro-maestro.googlecode.com/svn/wiki/images/walkthrough/options_partnumbering.png
 http://lotro-maestro.googlecode.com/svn/wiki/images/walkthrough/options_partnaming.png
+http://lotro-maestro.googlecode.com/svn/wiki/images/walkthrough/options_exportsave.png
 
 === ABC Part Numbering ===
 In order to keep your ABC part numbers predictable and consistent between songs, part numbers for ABC parts are automatically assigned.
@@ -112,5 +113,7 @@ The variables you can use are:
   * *`$SongTitle`* - The title of the song, as entered in the *T:* field.
   * *`$SongTranscriber`* - Your name, as entered in the *Z:* field.
 
-= Known Issues =
-  * If a MIDI file changes temp during the song, the rhythm will be incorrect in some parts of the exported ABC song.
+=== Export & Save ===
+  * *Prompt to save new Maestro Songs* - When selected, Maestro will prompt you to save the Maestro Song file when you try to close the application or open a different song. This only applies to new songs -- Maestro will always prompt you to save when closing an existing Maestro Song that's been modified.
+  * *Always prompt for the ABC file name when exporting* - When selected, Maestro will always ask you for the name of the .abc file when you click Export ABC. If deselected, it'll only prompt you the first time you export the song. Even with this option disabled, you can still pick a new export file using File > Export ABC As... (Ctrl+Shift+E).
+  

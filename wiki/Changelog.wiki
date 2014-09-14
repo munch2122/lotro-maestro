@@ -1,5 +1,29 @@
 #summary Release Notes
 
+== Maestro 2.0.0 ==
+_September 14, 2014_
+
+==== New Features ===
+  * Maestro now works with songs that change tempo! I've overhauled the MIDI-to-ABC conversion logic, so the exported ABC songs play at their original tempo and don't stutter after the tempo changes.
+    * When a song contains tempo changes, you'll see an extra row in the track list that shows you how the tempo changes over the course of the song.
+    * Because LOTRO doesn't understand the ABC notation for tempo changes mid-song, all note lengths are multiplied by the ratio of the actual tempo and the main tempo. For example, if the tempo changes from 100 BPM to 111 BPM, all note lengths are multiplied by 111/100 for that part of the song.
+    * When the tempo changes in a song, the new tempo will be written in a comment, for example: %%Q: 111
+    * The tempo-change comments are used by Maestro and ABC Player to understand the tempo changes within a song. This lets you open an ABC file with Maestro, and it will still understand the tempo changes.
+
+  * You can now save Maestro Song files, so you don't have to start from scratch if you want to export a song again with some different options.
+    * http://lotro-maestro.googlecode.com/svn/wiki/images/msxfile_32.png
+    * Files are saved in XML format, with the extension .msx (for Maestro Song XML). If you use the installer, this extension will be registered to open with Maestro by default.
+    * The .msx files do NOT store the original MIDI file that you opened, so you need to keep the MIDI file around as well.
+
+  * Bar lines are now shown in the track list, and there's a bar counter in the lower-right, just like there is in ABC Player.
+
+  * The lengths of notes in Maestro's ABC output is normalized, so you won't get notes that are a weird length, like an eleven-eighths note. Instead, each note is made up of tied notes of proper lengths: whole, half, quarter, eighth, sixteenth note etc., or a dotted quarter note, dotted eighth note, etc. (However, due to tempo changes, you may still see a note with an ugly fraction like 111/100, but they will still be proper note lengths like a quarter note).
+
+==== Bug Fixes ====
+  * Numerous small bug fixes.
+
+----
+
 == Maestro 1.4.1 ==
 _March 16, 2014_
 
