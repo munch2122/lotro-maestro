@@ -59,7 +59,7 @@ To donate with [https://square.com/cash/71VAYP Square Cash], just send an email.
 [https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPX5YZW5SALAG http://lotro-maestro.googlecode.com/svn/wiki/images/paypal_donate.gif]
 </td>
 <td valign="top">
-Or use PayPal if you prefer to use a credit card.
+Or use Paypal if you prefer to use a credit card.
 </td>
 </tr>
 </table>
