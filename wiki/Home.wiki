@@ -42,7 +42,7 @@ Created by Digero
 
 Donations are appreciated! You can use [https://square.com/cash/71VAYP Square Cash] or [https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPX5YZW5SALAG PayPal].
 
-<table cellpadding="2px">
+<table cellpadding="2px" width="840">
 <tr>
 <td width="65px" valign="top" align="center">
 [https://square.com/cash/71VAYP http://lotro-maestro.googlecode.com/svn/wiki/images/square_cash_jewel.png]
