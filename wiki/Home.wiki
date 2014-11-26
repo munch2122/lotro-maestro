@@ -40,7 +40,7 @@ http://lotro-maestro.googlecode.com/svn/wiki/images/AbcPlayer_2.0.0.png
 -----------------
 Created by Digero
 
-Donations are appreciated!
+Donations are appreciated! You can use [https://square.com/cash/71VAYP Square Cash] or [https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPX5YZW5SALAG PayPal].
 
 <table cellpadding="2px">
 <tr>
@@ -48,10 +48,7 @@ Donations are appreciated!
 [https://square.com/cash/71VAYP http://lotro-maestro.googlecode.com/svn/wiki/images/square_cash_jewel.png]
 </td>
 <td valign="top">
-To donate with [https://square.com/cash/71VAYP Square Cash], just send an email. Square will reply with sign up instructions if you don't have an account.
-  * Subject: *$5 Maestro Donation* (or however much you want to donate)
-  * To: *digero@gmail.com* (that's me)
-  * Cc: *cash@square.com*
+To donate with Square Cash, [http://www.google.com/recaptcha/mailhide/d?k=01ObAp8sDY_B2PIi0yjO810Q==&c=bJjJeuXErccNhDcUvKBGbzgReS9W7foFZiTEmhD5OWc= send me an email], add *cash@square.com* to the CC box, and include the donation amount in the subject line (e.g. *$5 Maestro Donation*). Square will reply with sign up instructions if you don't have an account.
 </td>
 </tr>
 <tr>
@@ -59,7 +56,7 @@ To donate with [https://square.com/cash/71VAYP Square Cash], just send an email.
 [https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPX5YZW5SALAG http://lotro-maestro.googlecode.com/svn/wiki/images/paypal_donate.gif]
 </td>
 <td valign="top">
-Or use Paypal if you prefer to use a credit card.
+Or use [https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPX5YZW5SALAG PayPal] if you prefer to use a credit card.
 </td>
 </tr>
 </table>
