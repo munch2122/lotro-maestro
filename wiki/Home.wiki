@@ -28,7 +28,7 @@ Maestro and ABC Player require Java 7 (32-bit) or later. I recommend that you [h
 
 
 ==Advanced Download==
-*[http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v2.1.0.zip Maestro_v2.1.0.zip]* - includes ABC Player | <i>September 14, 2014</i>
+*[http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v2.1.0.zip Maestro_v2.1.0.zip]* - includes ABC Player | <i>December 15, 2014</i>
 
 _The zip file contains all of the files needed to run Maestro and ABC Player. Download this if you prefer not to use the installer, or want to try running Maestro on another operating system (like 64-bit Java, MacOS, or Linux). Maestro has not been tested to run on operating systems other than Windows, your mileage may vary._
 
