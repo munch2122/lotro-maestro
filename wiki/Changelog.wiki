@@ -1,5 +1,18 @@
 #summary Release Notes
 
+== Maestro 2.1.0 ==
+_December 15, 2014_
+
+==== New Features ===
+  * Updated the LOTRO instrument audio samples with the new tuned instrument sounds from the game.
+  * Updated the Maestro configuration for Horn, Clarinet, and Pibgorn so it will now output notes in the full 3-octave range, now that they no longer have breath sounds.
+
+==== Bug Fixes ====
+  * Fixed a bug where you could not edit or export a song that was loaded from an ABC file that didn't have a "C:" or "Z:" field.
+  * Editing a song from an ABC file now correctly loads the time signature rather than defaulting to 4/4.
+
+----
+
 == Maestro 2.0.0 ==
 _September 14, 2014_
 
