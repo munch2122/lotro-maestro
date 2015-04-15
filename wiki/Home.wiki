@@ -12,25 +12,14 @@
 </tr>
 </table>
 
+<font color="red">
+= Maestro has moved to [https://github.com/digero/maestro GitHub] =
+Maestro and ABC Player are now hosted on [https://github.com/digero/maestro GitHub].
 
-<table>
-<tr><td height="32"></td></tr>
-<tr><td>
-<a href="http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v2.1.1.msi"><img alt="Download Maestro and ABC Player Installer" title="Download Maestro and ABC Player Installer" src="http://lotro-maestro.googlecode.com/svn/wiki/images/download.png"></img><br/>
-*Maestro v2.1.1.msi*</a> - includes ABC Player | <i>December 16, 2014</i>
-</td></tr>
-<tr><td height="32"></td></tr>
-</table>
+You can download it here: https://github.com/digero/maestro/releases
 
-<table width="800"><tr><td width="94"><a href="http://www.java.com"><img src="http://download.oracle.com/technetwork/java/get-java/getjavasoftware-88x31.png" alt="Get Java Software" border="0" width="88" height="31" /></a></td><td>
-Maestro and ABC Player require Java 7 (32-bit) or later. I recommend that you [http://www.java.com/en/download/help/disable_browser.xml disable the Java browser plugin] after installing Java for increased security.
-</td></tr></table>
-
-
-==Advanced Download==
-*[http://lotro-maestro.googlecode.com/svn/releases/Maestro/Maestro_v2.1.1.zip Maestro_v2.1.1.zip]* - includes ABC Player | <i>December 16, 2014</i>
-
-_The zip file contains all of the files needed to run Maestro and ABC Player. Download this if you prefer not to use the installer, or want to try running Maestro on another operating system (like 64-bit Java, MacOS, or Linux). Maestro has not been tested to run on operating systems other than Windows, your mileage may vary._
+I'm leaving the documentation here until I have a chance to move it.
+</font>
 
 = Screenshots =
 http://lotro-maestro.googlecode.com/svn/wiki/images/maestro_v2.0.0.png
