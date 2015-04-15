@@ -1,5 +1,15 @@
 #summary Release Notes
 
+== Maestro 2.2.0 ==
+_April 15, 2015_
+
+  * Updated the LOTRO instrument audio samples with the new sounds from Update 15.
+  * If you open an .abc or .msx file in Maestro, the transcriber "Z" field will be filled with the transcriber info from that file. This lets you preserve the transcriber name if you modify someone else's .abc file in Maestro.
+  * Add a new option in Settings > Save & Export > "Remove silence from start of exported ABC". It is enabled by default, which is how Maestro has always worked. You can disable it if you want to export multiple ABC files from a single MIDI file, and you need them to all start at the same time.
+
+
+----
+
 == Maestro 2.1.1 ==
 _December 16, 2014_
 
