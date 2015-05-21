@@ -13,7 +13,7 @@
 </table>
 
 <font color="red">
-= Maestro has moved to [https://github.com/digero/maestro GitHub] =
+= Maestro has moved =
 Maestro and ABC Player are now hosted on [https://github.com/digero/maestro GitHub].
 
 You can download it here: https://github.com/digero/maestro/releases
